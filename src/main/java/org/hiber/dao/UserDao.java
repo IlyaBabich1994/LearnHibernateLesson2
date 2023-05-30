@@ -10,9 +10,9 @@ public interface UserDao {
 
     void addCarToUser(Long userId, Car car);
 
-    void addUser(User user);
+    void saveUser(User user);
 
-    void removeCarFromUser(Long userId, Long carId);
+    void removeCarFromUser(Long carId);
 
     List<User> getAllUsers();
 

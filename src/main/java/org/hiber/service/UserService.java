@@ -10,7 +10,11 @@ public interface UserService {
 
     void addUser(User user);
 
-    void removeCarFromUser(Long userId, Long carId);
+    void removeCarFromUser(Long carId);
+
+    void removeCar(Long carId);
+
+    void removeUser(Long userId);
 
     List<User> getAllUsers();
 
@@ -18,5 +22,5 @@ public interface UserService {
 
     List<Car> getCarsByUserId(Long userId);
 
-    Car getCarById(Long id);
+    Car getCarByCarId(Long id);
 }
