@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cdab8e7-26fd-49bc-b848-8f6f58630a15" name="Changes" comment="Fixed lesson">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hiber/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hiber/dao/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hiber/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hiber/model/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hiber/model/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="1cdab8e7-26fd-49bc-b848-8f6f58630a15" name="Changes" comment="Fixed lesson" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +56,20 @@
       <recent name="C:\Users\ktljv\IdeaProjects\LearnHibernateLesson2\src\main\resources\META-INF" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hiber.App" />
+      <module name="LearnHibernateLesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hiber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnHibernateLesson2" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -97,9 +105,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.App" />
       <item itemvalue="Docker.Docker Image" />
       <item itemvalue="Maven.LearnHibernateLesson2" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -117,7 +131,7 @@
       <workItem from="1684784886048" duration="616000" />
       <workItem from="1684791234067" duration="2822000" />
       <workItem from="1685467513587" duration="4181000" />
-      <workItem from="1685485652954" duration="2634000" />
+      <workItem from="1685485652954" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed lesson">
       <created>1685470031609</created>
@@ -133,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685470130912</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed lesson">
+      <created>1685526940806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685526940807</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
